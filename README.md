@@ -1,4 +1,4 @@
-# Database
+# My Simple Database
 
 Course: CEN326 - Software Project Development
 
